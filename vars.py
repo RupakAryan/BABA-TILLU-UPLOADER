@@ -1,6 +1,6 @@
 # Don't Remove Credit Tg - @Ashiqi_091
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Ashiqi_091
-# Ask Doubt on telegram @Ashiqi_091
+# Ask Doubt on telegram @BABATILLU
 
 from os import environ
 
